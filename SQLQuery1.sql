@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[Name]
+      ,[Email]
+      ,[Phone]
+      ,[Salary]
+  FROM [EmployeesDb].[dbo].[Employees]
